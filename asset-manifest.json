@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/weebs/static/css/main.4274f6f9.chunk.css",
+    "main.css": "/weebs/static/css/main.90f73680.chunk.css",
     "main.js": "/weebs/static/js/main.92ff2553.chunk.js",
     "main.js.map": "/weebs/static/js/main.92ff2553.chunk.js.map",
     "runtime-main.js": "/weebs/static/js/runtime-main.af3f7507.js",
@@ -10,7 +10,7 @@
     "static/js/3.6538fa51.chunk.js": "/weebs/static/js/3.6538fa51.chunk.js",
     "static/js/3.6538fa51.chunk.js.map": "/weebs/static/js/3.6538fa51.chunk.js.map",
     "index.html": "/weebs/index.html",
-    "static/css/main.4274f6f9.chunk.css.map": "/weebs/static/css/main.4274f6f9.chunk.css.map",
+    "static/css/main.90f73680.chunk.css.map": "/weebs/static/css/main.90f73680.chunk.css.map",
     "static/js/2.34f30f01.chunk.js.LICENSE.txt": "/weebs/static/js/2.34f30f01.chunk.js.LICENSE.txt",
     "static/media/aot.960a134d.jpg": "/weebs/static/media/aot.960a134d.jpg",
     "static/media/b.c9dd1739.jpg": "/weebs/static/media/b.c9dd1739.jpg",
@@ -40,7 +40,7 @@
   "entrypoints": [
     "static/js/runtime-main.af3f7507.js",
     "static/js/2.34f30f01.chunk.js",
-    "static/css/main.4274f6f9.chunk.css",
+    "static/css/main.90f73680.chunk.css",
     "static/js/main.92ff2553.chunk.js"
   ]
 }
